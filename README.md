@@ -1,5 +1,5 @@
 # CareerNest
-<p align="center">
+<p>
   Your Gateway to Career Opportunities
 </p>
 <p align="center">
