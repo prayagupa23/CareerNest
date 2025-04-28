@@ -1,8 +1,5 @@
-# CareerNest
+# CareerNest - Your Gateway to Career Opportunities
 <p>
-  Your Gateway to Career Opportunities
-</p>
-<p align="center">
   <img src="assets/app_logo1.png" alt="CareerNest Logo" width="200"/>
 </p>
 
