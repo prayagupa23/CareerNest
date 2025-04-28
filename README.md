@@ -1,14 +1,11 @@
 # CareerNest
 <p align="center">
+  Your Gateway to Career Opportunities
+</p>
+<p align="center">
   <img src="assets/app_logo1.png" alt="CareerNest Logo" width="200"/>
 </p>
 
-<h1 align="center">CareerNest</h1>
-
-<p align="center">
-  Your Gateway to Career Opportunities
-</p>
-CareerNest
 CareerNest is a modern job portal app designed to connect employers and job seekers seamlessly.
 Employers can post jobs, view applicants, and manage job listings, while applicants can explore opportunities, upload resumes, and apply for their dream careers — all within one platform.
 
